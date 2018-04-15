@@ -1,0 +1,47 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+p{
+	color:gray;
+}
+.silver{
+	color:silver;
+}
+.welcome{
+	padding:100px 0 0 0 ;
+}
+.home{
+	text-align:center;
+}
+.welcome_to{
+	display:flex;
+	align-items:center;
+}
+
+.welcome_to_b{
+	padding:200px;
+}
+.about{
+	padding:100px;
+}
+h1{
+	color:#47546bf0;
+}
+.about-home{
+	padding:100px;
+}
+
+.menu{
+	padding:50px;
+	text-align:center;
+}
+
+footer{
+	padding:30px;
+	text-align:center;
+	background-color:#161f30;
+	color:#eee;	
+}
+.contact{
+	line-height: 0.5;
+}
